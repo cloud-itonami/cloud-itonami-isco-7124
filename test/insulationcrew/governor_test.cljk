@@ -1,5 +1,5 @@
 (ns insulationcrew.governor-test
-  (:require [clojure.test :refer [deftest is testing]]
+  (:require [kotoba.test :refer [deftest is testing]]
             [insulationcrew.store :as store]
             [insulationcrew.advisor :as advisor]
             [insulationcrew.governor :as governor]))
